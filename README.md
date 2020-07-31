@@ -1,16 +1,12 @@
 # firestore_search_example
 
-A new Flutter project.
+![](https://github.com/PavieOlivier/firestore_search_example/blob/master/search%20ui.png?raw=true)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+This Ui was made to show how to use my flutter package“[Firestore_indexing_search](https://pub.dev/packages/firestore_indexing_search "Firestore_indexing_search"),  It will help developers understand how to automatically index their data and how to create custom search screens. (In beta since the main package is in beta )
 
-A few resources to get you started if this is your first Flutter project:
+Here is a link to the Apk 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [The Apk link](https://drive.google.com/file/d/1c_TVBakzNjLWVzhE0BJ-UdJPxypYOdlQ/view?usp=drivesdk "The Apk link")
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you have any question please feel free to contact me on [Instagram](http://instagram.com/emilecode "Instagram")
